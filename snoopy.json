@@ -1,0 +1,120 @@
+{
+    "browser": {
+        "categories": {
+            "technology": [
+                "programming",
+                "software",
+                "tech",
+                "coding",
+                "github",
+                "stackoverflow",
+                "python",
+                "javascript",
+                "java",
+                "c++",
+                "c#",
+                "php",
+                "ruby",
+                "swift",
+                "kotlin",
+                "rust",
+                "go",
+                "scala",
+                "haskell",
+                "erlang",
+                "elixir",
+                "dart",
+                "typescript",
+                "kotlin",
+                "rust",
+                "go",
+                "scala",
+                "haskell",
+                "erlang",
+                "elixir",
+                "dart",
+                "typescript",
+                "machine learning",
+                "deep learning",
+                "artificial intelligence",
+                "data science",
+                "neural networks",
+                "tensorflow",
+                "pytorch",
+                "scikit-learn",
+                "pandas",
+                "numpy",
+                "matplotlib",
+                "seaborn",
+                "plotly",
+                "bokeh",
+                "d3.js",
+                "chart.js",
+                "echarts",
+                "highcharts",
+                "chartist",
+                "c3.js",
+                "chartkick",
+                "chartjs",
+                "chartist",
+                "c3.js",
+                "chartkick",
+                "chartjs",
+                "chartist",
+                "c3.js",
+                "chartkick",
+                "chartjs"
+            ],
+            "academic": [
+                "research",
+                "study",
+                "university",
+                "academic",
+                "scholar",
+                "education"
+            ],
+            "entertainment": [
+                "youtube",
+                "netflix",
+                "gaming",
+                "music",
+                "movies",
+                "spotify"
+            ],
+            "professional": [
+                "linkedin",
+                "career",
+                "job",
+                "professional",
+                "business",
+                "upwork"
+            ],
+            "social": [
+                "facebook",
+                "twitter",
+                "instagram",
+                "social",
+                "community"
+            ],
+            "shopping": [
+                "amazon",
+                "shop",
+                "store",
+                "price",
+                "buy",
+                "cart",
+                "wish",
+                "aliexpress"
+            ],
+            "news": [
+                "news",
+                "current events",
+                "politics",
+                "world",
+                "breaking"
+            ]
+        }
+    }
+
+    
+}
