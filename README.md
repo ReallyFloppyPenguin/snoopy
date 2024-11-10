@@ -10,5 +10,5 @@ is in `snoopy.json`
 * src/browser_snoop.py
 gets data from user based on browser history
 
-* The rest
-is coming
+* src/file_snoop.py
+gets data from user based on files (executables, etc) on the user machine
